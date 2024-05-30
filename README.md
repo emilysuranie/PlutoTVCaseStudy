@@ -9,14 +9,14 @@ This case study focuses on the user experience challenges encountered while usin
 <h2>Utilities Used</h2>
 
 
-- <b>Google Docs</b>
+- <b>Google Slides</b>
 
 
 <h2>Project:</h2>
 
 <p align="center">
 Link to Case Study <br/>
-<a href="https://docs.google.com/document/d/1tgg63cUQyJnyfmtYFE3F4diaUhkwX3AcEc1CR8b7JPM/edit?usp=sharing"><img alt="Pluto TV Case Study"/></a>
+<a href="https://docs.google.com/presentation/d/1RYPjf275FP5CaIxuDa5oBTiqkNxzCbBApgVQ3CXUfEw/edit?usp=sharing"><img alt="Pluto TV Case Study"/></a>
 <br />
 <br />
 

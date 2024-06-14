@@ -2,8 +2,7 @@
 
 
 <h2>Description</h2>
-This case study focuses on the user experience challenges encountered while using Pluto TV. Users have expressed dissatisfaction with Pluto TV's design layout, visual clutter, and accessibility. Through user analysis and comparing Pluto TV with other streaming platforms, the case study points out areas for improvement. It explores how poor design impacts user enjoyment and suggests solutions to enhance Pluto TV's user experience. 
-<br />
+This UX Case Study focuses on how improvements can be made to Pluto TV’s home screen and menu to better the user experience. <br />
 
 
 <h2>Utilities Used</h2>

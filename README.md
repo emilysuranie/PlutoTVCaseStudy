@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-This UX Case Study focuses on how improvements can be made to Pluto TV’s home screen and menu to better the user experience. <br />
+The main purpose of this UX case study is to introduce a new design layout for Pluto TV to make it more personalized and user-friendly. It reviews and discusses problems with the current home screen and menu, along with user needs and wants for the streaming platform. Next, this case study creates strategic solutions to make Pluto TV more accessible and personalized. There are three wireframes visualizing these solutions to display the new design layout of Pluto TV.  <br />
 
 
 <h2>Utilities Used</h2>
